@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  gitlab:
+    github: mayeu/gitlab.cr
+    commit: 07541445ffd11c3f502cf2b3c4f8ab279162cdef
+
+  halite:
+    github: icyleaf/halite
+    version: 0.10.4
+

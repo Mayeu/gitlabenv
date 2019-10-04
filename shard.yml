@@ -1,0 +1,18 @@
+name: gitlabenv
+version: 0.1.0
+
+authors:
+  - Mayeu <m@mayeu.me>
+
+targets:
+  gitlabenv:
+    main: src/gitlabenv.cr
+
+crystal: 0.31.1
+
+dependencies:
+  gitlab:
+    github: mayeu/gitlab.cr
+    commit: 07541445ffd11c3f502cf2b3c4f8ab279162cdef
+
+license: LGPL-3.0

@@ -1,0 +1,9 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+.env
+.env.*
+.env.*.sh
+!.env.example.sh
