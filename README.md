@@ -16,7 +16,7 @@ $ make build
 
 This should build everything then you can find the tool in the `bin/` folder.
 
-[installation](https://crystal-lang.org/reference/installation/)
+[installation]: https://crystal-lang.org/reference/installation/
 
 ## Usage
 
